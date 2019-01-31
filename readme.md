@@ -4,7 +4,7 @@ ASP.NET MVC CRUD
 
 ## Introduction
 
-This is a asp.net MVC CRUD project. This project user datatables plugin (https://datatables.net/) for table and notify.js (https://notifyjs.jpillora.com/) jQuery plugin for confirmation notification.
+This is a asp.net MVC CRUD project. This project use datatables plugin (https://datatables.net/) for table and notify.js (https://notifyjs.jpillora.com/) jQuery plugin for confirmation notification.
 For database I am using SQL server. 
 
 ### Prerequisites
