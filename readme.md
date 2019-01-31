@@ -1,10 +1,11 @@
 # Project Title
 
-One Paragraph of project description goes here
+ASP.NET MVC CRUD
 
-## Getting Started
+## Introduction
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This is a asp.net mvc crud project. This project user datatables plugin (https://datatables.net/) for table and notify.js (https://notifyjs.jpillora.com/) jQuery plugin for confirmation notification.
+For database I am using SQL server. 
 
 ### Prerequisites
 
